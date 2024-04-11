@@ -1,1 +1,2 @@
 # Like-Server-Simulation-Eventual-Consistency
+Implemented an Eventual Consistency model using processes and sockets communication. Created a Parent-Process to fork() child Likes-Servers, each emulating a simplified YouTube server to generate random likes and communicate with a PrimaryLikesServer. This project demonstrates IPC techniques, logging, and handling potential failures, all while adhering to secure programming practices.
